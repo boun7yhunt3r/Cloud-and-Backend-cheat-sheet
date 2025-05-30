@@ -17,7 +17,7 @@
   - **Insert**: `INSERT INTO users (username, email) VALUES ('user1', 'user1@example.com');`
   - **Query**: `SELECT * FROM users WHERE created_at > '2025-01-01';`
 - **Notes**:
-  - Scalable, robust for MATVIS data needs
+  - Scalable, robust for data needs
   - Learn: Indexing, transactions, connection pooling
 
 ### **MySQL**
