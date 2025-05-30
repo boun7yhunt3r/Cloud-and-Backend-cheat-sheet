@@ -254,5 +254,3 @@ A concise, visually organized guide to essential FastAPI concepts, setup, and co
     ```
 
 ---
-
-**Note**: Save this as `FASTAPI_CHEAT_SHEET.md` in your GitHub repo for a clean, readable reference!
