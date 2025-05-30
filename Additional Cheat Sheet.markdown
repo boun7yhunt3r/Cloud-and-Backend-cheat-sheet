@@ -1,9 +1,3 @@
-# Additional Skills Cheat Sheet for Senior Software Engineer (Backend) at MATVIS
-
-A concise, visually organized guide to complementary skills for Python, Docker, Git, and FastAPI, tailored to the Senior Software Engineer (Backend) role at MATVIS, focusing on relational data, API security, and performance.
-
----
-
 ## **1. Relational Databases**
 
 ### **PostgreSQL**
