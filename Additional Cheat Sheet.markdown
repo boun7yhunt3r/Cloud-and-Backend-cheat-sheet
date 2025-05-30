@@ -59,7 +59,7 @@
       return {"token": token}
   ```
 - **Notes**:
-  - Protects MATVIS APIs for AI security
+  - Protects APIs for AI security
   - Learn: JWT validation, refresh tokens
 
 ### **Input Validation & Rate Limiting**
@@ -111,7 +111,7 @@
     EXPLAIN SELECT * FROM users WHERE email = 'user1@example.com';
     ```
 - **Notes**:
-  - Critical for MATVIS backend scalability
+  - Critical for backend scalability
   - Learn: Partitioning, caching
 
 ### **API Performance**
@@ -132,7 +132,7 @@
         return {"message": "Fast async response"}
     ```
 - **Notes**:
-  - Improves MATVIS API responsiveness
+  - Improves API responsiveness
   - Install: `pip install redis`, use async/await
 
 ---
@@ -152,7 +152,7 @@
     ```
   - **Elastic Beanstalk**: Simplify app deployment
 - **Notes**:
-  - Key for MATVIS cloud integration
+  - Key for cloud integration
   - Learn: Security groups, RDS
 
 ### **Google Cloud Platform (GCP)**
@@ -165,7 +165,7 @@
   - **Compute Engine**: Run servers
   - **Cloud SQL**: Managed databases
 - **Notes**:
-  - Supports MATVIS scalability
+  - Supports scalability
   - Learn: Load balancing, monitoring
 
 ---
@@ -198,7 +198,7 @@
     }
     ```
 - **Notes**:
-  - Streamlines MATVIS deployment
+  - Streamlines deployment
   - Learn: Plugins, pipeline setup
 
 ### **GitHub Actions**
@@ -222,7 +222,7 @@
           run: pytest
   ```
 - **Notes**:
-  - Automates MATVIS testing, deployment
+  - Automated testing, deployment
   - Learn: Secrets, multi-stage builds
 
 ---
