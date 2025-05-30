@@ -250,5 +250,3 @@ A concise, visually organized guide to essential Docker commands for container, 
   ```
 
 ---
-
-**Note**: Save this as `DOCKER_CHEAT_SHEET.md` in your GitHub repo for a clean, readable reference!
