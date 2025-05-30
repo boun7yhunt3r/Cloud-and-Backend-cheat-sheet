@@ -222,5 +222,3 @@ A concise, visually organized guide to essential Git commands for setup, local r
   ```
 
 ---
-
-**Note**: Save this as `GIT_CHEAT_SHEET.md` in your GitHub repo for a clean, readable reference!
