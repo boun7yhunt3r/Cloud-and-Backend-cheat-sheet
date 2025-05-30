@@ -226,5 +226,3 @@
   - Learn: Secrets, multi-stage builds
 
 ---
-
-**Note**: Save this as `SKILLS_CHEAT_SHEET.md` in your GitHub repo to prepare for the MATVIS role!
